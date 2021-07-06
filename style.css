@@ -75,3 +75,49 @@ h1{
     padding-top: 60px;
 }
 /* Section one end */
+
+/* section three start */
+.section-three{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.recipy-section{
+    text-align: center;
+}
+.recipy-section h2{
+    color: #504b4b;
+    font-size: 35px;
+}
+.recipy-section p{
+    padding: 0 25%;
+    font-size: 18px;
+    color: gray;
+}
+.box-area{
+    display: flex;
+    /* text-align: center; */
+}
+.box-item{
+    margin: 50px;
+    padding: 20px;
+    box-shadow: 2px 2px 20px gray;
+    border-radius: 20px;
+    width: 400px;
+    height: 460px;
+}
+.box-item h3{
+    color: #504b4b;
+    font-size: 25px;
+}
+.box-item p{
+    color: gray;
+    font-size: 18px;
+}
+.box-item img{
+    width: 100%;
+    border-radius: 20px;
+}
+.box-item-text{
+    padding-right: 20px;
+    text-align: left;
+}
